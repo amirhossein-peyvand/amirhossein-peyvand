@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir hossein Peyvand
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Web Development and I'm a junior web developer.
+- 🌱 I’m currently a Web Developer and I'm still keep on learning.
 
 
 <!---
