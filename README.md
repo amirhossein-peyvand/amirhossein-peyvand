@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Amir hossein Peyvand
-- 👀 I’m interested in computer science
-- 🌱 I’m currently a Web Developer and I'm still keep on learning.
-
-
-<!---
-amirhossein-peyvand/amirhossein-peyvand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const info = {
+  fullName: "Amir Hossein Peyvand",
+  education: "Bachelor student of IT engineering at Shamsipour university of Tehran",
+  skills: ["HTML", "CSS, "Sass", "Javascript", "React js", "Chakra ui", "English"],
+  hobbies: ["playing computer games", "going to the gym", "reading scary books", "traveling"]
+}
